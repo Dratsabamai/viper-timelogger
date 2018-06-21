@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": null,
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.formatOnSave": false,
+    },
+    "window.zoomLevel": 0,
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}
